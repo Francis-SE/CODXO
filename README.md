@@ -18,8 +18,8 @@ A simple number-guessing game with a graphical user interface built using `tkint
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/number-guessing-game.git
-    cd number-guessing-game
+    git clone https://github.com/Francis-SE/CODXO.git
+    cd CODXO
     ```
 
 2. **Run the Game**:
